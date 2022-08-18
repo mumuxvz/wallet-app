@@ -1,5 +1,5 @@
 # Wallet app
-  > This is the Wallet app that trck your finace and make easy to control your money flow below we give preview of the app
+  > This is the Wallet app that trck your finace and make easy to control your money flow below we give preview of the app.
 
 
 ### Wallet page
